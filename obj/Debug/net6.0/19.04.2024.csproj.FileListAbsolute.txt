@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\19.04.2024\bin\Debug\net6.0\19.04.2024.exe
+C:\Users\ADMIN\Desktop\19.04.2024\bin\Debug\net6.0\19.04.2024.deps.json
+C:\Users\ADMIN\Desktop\19.04.2024\bin\Debug\net6.0\19.04.2024.runtimeconfig.json
+C:\Users\ADMIN\Desktop\19.04.2024\bin\Debug\net6.0\19.04.2024.dll
+C:\Users\ADMIN\Desktop\19.04.2024\bin\Debug\net6.0\19.04.2024.pdb
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.dll
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\refint\19.04.2024.dll
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.pdb
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\19.04.2024.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\19.04.2024\obj\Debug\net6.0\ref\19.04.2024.dll

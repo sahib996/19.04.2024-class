@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\model\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:model\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\model\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:model\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\model\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:model\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\model\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:model\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|c:\\users\\admin\\desktop\\19.04.2024\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24019B1-76D3-47A8-82B8-2306A4BC7DC2}|19.04.2024.csproj|solutionrelative:model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Lion.cs",
+              "RelativeDocumentMoniker": "model\\Lion.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Lion.cs",
+              "RelativeToolTip": "model\\Lion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:46:54.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Cow.cs",
+              "RelativeDocumentMoniker": "model\\Cow.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Cow.cs",
+              "RelativeToolTip": "model\\Cow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:46:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Animal.cs",
+              "RelativeDocumentMoniker": "model\\Animal.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Animal.cs",
+              "RelativeToolTip": "model\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:46:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Meat.cs",
+              "RelativeDocumentMoniker": "model\\Meat.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Meat.cs",
+              "RelativeToolTip": "model\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:45:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Grass.cs",
+              "RelativeDocumentMoniker": "model\\Grass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Grass.cs",
+              "RelativeToolTip": "model\\Grass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:43:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Food.cs",
+              "RelativeDocumentMoniker": "model\\Food.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\model\\Food.cs",
+              "RelativeToolTip": "model\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:43:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\19.04.2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:41:53.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
